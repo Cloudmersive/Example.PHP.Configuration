@@ -1,0 +1,5 @@
+{
+    "require": {
+        "cloudmersive/cloudmersive_configuration_api_client": "2.0.2"
+    }
+}
